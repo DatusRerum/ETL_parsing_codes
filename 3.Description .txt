@@ -1,0 +1,2 @@
+This will convert all files within a the input directory to docx (docx is the modern word file format). 
+It is created with the VIDS names as folders but can be adapted for any file structure.  
